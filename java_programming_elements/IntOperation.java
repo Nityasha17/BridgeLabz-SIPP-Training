@@ -3,7 +3,7 @@ package Java_Programming_Elements;
 import java.util.Scanner;
 
 //Create class to perform integer operations and demonstrate operator precedence
-class IntOperation {
+class intOperation {
  public static void main(String[] args) {
      Scanner input = new Scanner(System.in);
 
